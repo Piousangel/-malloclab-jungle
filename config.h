@@ -60,7 +60,7 @@
 /* 
  * Maximum heap size in bytes 
  */
-#define MAX_HEAP (20*(1<<20))  /* 20 MB */
+                                                            6TT
 
 /*****************************************************************************
  * Set exactly one of these USE_xxx constants to "1" to select a timing method
